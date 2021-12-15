@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/osboxes/projects/LR1/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/lr1.dir/main.c.o -c /home/osboxes/projects/LR1/main.c",
+  "file": "/home/osboxes/projects/LR1/main.c"
+}
+]
